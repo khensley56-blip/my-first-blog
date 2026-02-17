@@ -1,0 +1,21 @@
+ # Python
+*.pyc
+*~
+__pycache__
+
+# Virtual env
+myvenv/
+venv/
+.env
+
+# Database
+db.sqlite3
+
+# Static at root
+/static/
+
+# Windows junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
